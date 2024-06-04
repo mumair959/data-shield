@@ -1,0 +1,19 @@
+{
+    "name": "devtec/data_shield",
+    "description": "Data Shield - A simple Laravel package to encrypt sensitive data.",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Devtec\\DataShield\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muhammad Umair",
+            "email": "mumair.ssuet@gmail.com"
+        }
+    ],
+    "require": {}
+}
